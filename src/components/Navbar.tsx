@@ -20,7 +20,7 @@ const Navbar: FunctionComponent<NavbarProps> = () => {
           <NavLink className="nav-link m-2" aria-current="page" to={"/"}>
             <div className="d-none d-md-block">
               <img
-                src="images/לוגו מיכל (1).png"
+                src="images/logo michal (1).png"
                 alt=""
                 width={"250rem"}
                 className="logo"
